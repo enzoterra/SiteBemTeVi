@@ -1,0 +1,36 @@
+/* Textos */
+
+.recado {
+    color: #e9e9e9;
+    position: relative;
+    top: 20vh;
+    width: 100%;
+    text-align: center;
+}
+
+#seta {
+    font-size: 100px;
+}
+
+.recado p{
+    width: 70%;
+    color: #e9e9e9;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Segoe UI;
+    margin-top: 50vh;
+}
+
+#p2 {
+    font-size: 34px;
+    margin-bottom: 50vh;
+    margin-top: 20vh;
+    position: relative;
+}
+
+footer{
+    text-align: center;
+    color: #e9e9e9;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+}
