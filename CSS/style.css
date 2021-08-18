@@ -18,9 +18,7 @@ html {
 }
 
 body {
-    background-image: url(Imagens/textura.jpg);
     background-color: rgb(16, 16, 19);
-    background-attachment: fixed;
     height: 100%;
 }
 
@@ -37,7 +35,7 @@ body {
 
 #simbolo {
     width: 20%;
-    margin-top: 5vh;
+    margin-top: 2vh;
     position: relative;
     text-align: center;
 }
@@ -63,7 +61,7 @@ body {
     list-style: none;
     position: relative;
     text-align: right;
-    margin-top: 15vh;
+    margin-top: 8vh;
 }
 
 .item_menu {
