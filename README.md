@@ -4,7 +4,7 @@
 
 <h3 align="center">Um site sobre o famoso passarinho brasileiro Bem-Te-Vi</h3>
 
-<h4 align="center">Link do Site: https://enzoterra.github.io/Site_do_BemTeVi/</h4>
+<h4 align="center">Link do Site: https://enzoterra.github.io/SiteBemTeVi/</h4>
 
 </br>
 
