@@ -4,7 +4,7 @@
 
 <h3 align="center">Um site sobre o famoso passarinho brasileiro Bem-Te-Vi</h3>
 
-<h4 align="center">Link do Site: https://enzoterra.github.io/SiteBemTeVi/</h4>
+<!--h4 align="center">Link do Site: https://enzoterra.github.io/SiteBemTeVi/</h4-->
 
 </br>
 
@@ -13,7 +13,7 @@ Este site é um breve trabalho de *Desenvolvimento Web* (uma matéria do Curso T
 
 É um projeto simples, com poucas páginas, utilizando-se bastante de CSS e HTML, apenas para a entrega do trabalho. 
 
-*Neste site ainda não há a presença de códigos em JS.*
+*Neste site não há a presença de códigos em JS.*
 
 (ATENÇÃO -
 Para este trabalho, o tema era livre. Como era um trabalho curto e de tema livre, decidi usar um tema um pouco mais "informal", espero que não se importem das minhas brincadeiras durante o site kkk. **Porém, o HTML e o CSS foram levados a sério, construídos de maneira mais profissional**)
