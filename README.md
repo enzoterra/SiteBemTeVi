@@ -3,6 +3,7 @@
 <h1 align="center">Site do Bem-Te-Vi</h1>
 
 <h3 align="center">Um site sobre o famoso passarinho brasileiro Bem-Te-Vi</h3>
+<h5 align="center"><i>(Desenvolvido pensando mais em desktop, porém tem sua responsividade)</i></h5>
 
 <!--h4 align="center">Link do Site: https://enzoterra.github.io/SiteBemTeVi/</h4-->
 
