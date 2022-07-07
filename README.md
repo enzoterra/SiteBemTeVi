@@ -11,7 +11,7 @@
 ## 💻 Sobre o site
 Este site é um breve trabalho de *Desenvolvimento Web* (uma matéria do Curso Técnico de Informática, do IFMS).
 
-É um projeto simples, com poucas páginas, utilizando-se bastante de CSS e HTML, apenas para a entrega do trabalho. 
+É um projeto simples, com poucas páginas, utilizando-se apenas de CSS e HTML, pois era apenas para a entrega do trabalho. 
 
 *Neste site não há a presença de códigos em JS.*
 
