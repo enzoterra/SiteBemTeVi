@@ -4,21 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre | Bem-Te-Vi</title>
-    <link rel="shortcut icon" href="Imagens/icone.png">
-    <link rel="stylesheet" href="CSS/sobre.css">
+    <link rel="shortcut icon" href="resources/icone.png">
     <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="CSS/sobre.css">
+    <title>Sobre | Bem-Te-Vi</title>
 </head>
 
 <body>
 
-    <!-- Header -->
     <header>
-
         <div id="headerFlex">
 
             <div id="simbolo">
-                <img id="simbolo" src="Imagens/simbolo.png">
+                <img id="simbolo" src="resources/simbolo.png">
                 <p>Bem-Te-Vi's Website</p>
             </div>
 
@@ -33,84 +31,68 @@
             </div>
 
         </div>
-
     </header>
 
-
-
     <main>
-
         <div id="tituloInicial">
             <h1>Porque o canto do Bem-Te-Vi é umas das melhores músicas do mundo?</h1>
         </div>
 
-        <!-- Formação -->
-        <div id="naturalidade">
-
-            <div id="flex">
-
-                <div id="texto">
-                    <h1 id="titulo">Naturalidade</h1>
-                    <br><br>
-                    <p>O Bem-Te-Vi é um pássaro, portanto é um ser da natureza.
-                        <br>
-                        Nós, humanos, somos seres da natureza.
-                        <br>
-                        Logo, preferimos os sons naturais.
-                        <br><br>
-                        Portanto, um canto de um Bem-Te-Vi é algo que todos amam!
-                        Quem não gosta de escutar um doce som de um Bem-Te-Vi?</p>
-                </div>
-
-                <div id="img_naturalidade">
-                    <img src="Imagens/bem te vi cantando.jpg" alt="">
-                </div>
-
-            </div>
-
-
-            <!-- diaTranquilo -->
-            <div id="diaTranquilo">
-
-                <div id="img_diaTranquilo">
-                    <img src="Imagens/grupo bem te vi.jpg" alt="">
-                </div>
-
-                <div id="texto">
-                    <h1 id="titulo">Dia Tranquilo</h1>
-                    <br><br>
-                    <p>Acordar com o som de um canto de Bem-Te-Vi é uma das melhores sensações que podemos ter.
-                        <br>
-                        Quem não gosta de ser acordado por um Bem-Te-Vi?
-                        <br><br>
-                        Quando passamos por essa experiência, a nossa tendência é ter um dia mais agradável e encará-lo
-                        de bom humor.
-                    </p>
+        <!-- Naturalidade -->
+        <div class="flex">
+            <div class="texto">
+                <h1 class="titulo">Naturalidade</h1>
+                <br><br>
+                <p>O Bem-Te-Vi é um pássaro, portanto é um ser da natureza.
                     <br>
-                </div>
-
+                    Nós, humanos, somos seres da natureza.
+                    <br>
+                    Logo, preferimos os sons naturais.
+                    <br><br>
+                    Portanto, um canto de um Bem-Te-Vi é algo que todos amam!
+                    Quem não gosta de escutar um doce som de um Bem-Te-Vi?</p>
             </div>
 
-
-
+            <div class="img-flex" id="img_naturalidade">
+                <img src="resources/bem-te-vi-cantando.jpg" alt="">
+            </div>
         </div>
 
+        <!-- Dia Tranquilo -->
+        <div class="flex">
+            <div class="img-flex" id="img_diaTranquilo">
+                <img src="resources/grupo-bem-te-vi.jpg" alt="">
+            </div>
 
-        <!-- audio -->
+            <div class="texto">
+                <h1 class="titulo">Dia Tranquilo</h1>
+                <br><br>
+                <p>Acordar com o som de um canto de Bem-Te-Vi é uma das melhores sensações que podemos ter.
+                    <br>
+                    Quem não gosta de ser acordado por um Bem-Te-Vi?
+                    <br><br>
+                    Quando passamos por essa experiência, a nossa tendência é ter um dia mais agradável e encará-lo
+                    de bom humor.
+                </p>
+                <br>
+            </div>
+        </div>
+
+        <!-- Audio -->
         <div id="audio">
             <div id="texto">
                 <h1>Escute esse belo som doce e agradável</h1>
             </div>
 
             <audio controls="controls">
-                <source src="Imagens/bem-te-vi-storado.mp3" type="audio/mp3"/>
+                <source src="resources/bem-te-vi.mp3" type="audio/mp3"/>
                 Seu Navegador Não Suporta HTML5
             </audio>
         </div>
 
     </main>
 
-        <footer>© Enzo Terra</footer>
+    <footer>© Enzo Terra</footer>
         
 </body>
 
