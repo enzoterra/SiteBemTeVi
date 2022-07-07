@@ -1,4 +1,4 @@
-<div align="center"><img width="200px" src=https://github.com/enzoterra/Site-do-BemTeVi/blob/main/Imagens/icone.png></div>
+<div align="center"><img width="200px" src=https://github.com/enzoterra/Site-do-BemTeVi/blob/main/resources/icone.png></div>
 
 <h1 align="center">Site do Bem-Te-Vi</h1>
 
@@ -24,7 +24,8 @@ Para este trabalho, o tema era livre. Como era um trabalho curto e de tema livre
 
 **PÁGINA INICIAL**
 
-![BemTeVi-Index](https://user-images.githubusercontent.com/72806847/144888841-10186ff3-e9c6-4ba7-8398-b0cd36c4806e.jpg)
+<!--![BemTeVi-Index](https://user-images.githubusercontent.com/72806847/144888841-10186ff3-e9c6-4ba7-8398-b0cd36c4806e.jpg)-->
+![BemTeVi-Index](https://user-images.githubusercontent.com/72806847/177879783-aefed563-de41-4657-a35a-905b8a0e32dc.png)
 
 
 </br>
